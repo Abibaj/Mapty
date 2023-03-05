@@ -1,7 +1,7 @@
 {
-  "name": "cls",
+  "name": "mapty",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple web app that can be used for logging exercises such as running and cycling",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
